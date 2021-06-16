@@ -10,7 +10,7 @@
 </head>
 
 <body>
-	<h2>You have visited  <a href="/">http://localhost:8080</a>  <c:out value="${count}"/> times</h2>
+	<h2>You have visited  <a href="http://localhost:8080">http://localhost:8080</a>  <c:out value="${count}"/> times</h2>
 	<h2><a href="http://localhost:8080"> Test another visit?</a></h2>
 </body>
 </html>
